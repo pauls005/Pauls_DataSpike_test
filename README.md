@@ -7,7 +7,10 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-
+#### Add this to the install command in Environment Setup:
+```
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu121
+```
 ### Dataset Preparation
 
 Extract the provided dataset archive into the root directory of the project.
