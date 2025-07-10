@@ -1,0 +1,12 @@
+{
+  "num_epochs": 70,
+  "lr_head": 3e-05,
+  "lr_backbone": 3e-06,
+  "weight_decay": 0.001,
+  "total_steps": 4200,
+  "warmup_steps": 420,
+  "embed_dim": 512,
+  "s": 20.0,
+  "m": 0.2,
+  "drop_p": 0.1
+}

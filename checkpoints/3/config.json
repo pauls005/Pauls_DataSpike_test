@@ -1,0 +1,14 @@
+{
+  "device": "cuda",
+  "num_epochs": 70,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "train_size": 1920,
+  "val_size": 384,
+  "warmup_steps": null,
+  "total_steps": null,
+  "best_epoch": 43,
+  "best_val_loss": 0.34094768948853016,
+  "best_val_acc": 0.9244791666666666,
+  "best_train_acc": 0.7255208333333333
+}
