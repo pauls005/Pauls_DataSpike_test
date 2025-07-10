@@ -1,0 +1,10 @@
+dataset.zip
+dataset/*
+venv/*
+infer_data/*
+__pycache__/*
+*.pt
+*.pth
+Задание.txt
+пояснение.txt
+.ipynb_checkpoints/*
